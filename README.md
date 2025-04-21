@@ -90,9 +90,6 @@
 - 팀원들과의 원활한 커뮤니케이션
 - 코드 리뷰 문화 정착에 기여
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%" />
-</div>
 
 ## 🎯 주요 프로젝트
 
