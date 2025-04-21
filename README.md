@@ -41,88 +41,6 @@
   </p>
 </div>
 
-## 🎯 주요 프로젝트
-
-### SingleOne Platform
-<a href="https://www.singleone.jp" target="_blank">
-  <img src="https://img.shields.io/badge/SingleOne-Platform-FF6B6B?style=for-the-badge" alt="SingleOne Platform"/>
-</a>
-
-#### 🛠 사용 기술 스택
-![Next.js](https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js&logoColor=white)
-![React 18](https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI%20v5-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square&logo=react&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
-#### 📌 주요 개발 내용
-- **고도화된 프론트엔드 아키텍처**
-  - Next.js 14 기반 엔터프라이즈급 웹 애플리케이션 구축
-  - TypeScript를 활용한 강력한 타입 시스템 구현
-  - Zustand와 TanStack Query를 활용한 효율적인 상태 관리
-
-- **다양한 데이터 처리 기능**
-  - Material React Table을 활용한 고성능 데이터 그리드 구현
-  - Recharts를 활용한 다양한 데이터 시각화
-  - Excel, PDF 파일 처리 및 변환 기능 (xlsx, react-pdf)
-  - 드래그 앤 드롭 기능 구현 (react-beautiful-dnd, react-dnd)
-
-- **고급 UI/UX 기능**
-  - MUI v5 기반의 모던하고 일관된 디자인 시스템
-  - 고급 캘린더 및 날짜 선택 기능 (@mui/x-date-pickers, react-datepicker)
-  - 이미지 편집 및 크롭 기능 (fabric.js, react-cropper)
-  - 반응형 캐러셀 구현 (react-slick)
-
-- **보안 및 인증**
-  - JWT 기반 인증 시스템 구현
-  - Iron Session을 활용한 안전한 세션 관리
-  - Crypto-JS를 활용한 데이터 암호화
-
-#### 🔍 프로젝트 특징
-- Node.js 20 이상 환경에서 최적화된 성능
-- Jest와 React Testing Library를 활용한 테스트 자동화
-- ESLint, Prettier를 통한 코드 품질 관리
-- 지속적인 업데이트 및 버전 관리 (현재 Ver.1.5.5)
-
-#### 🚀 성과
-- 일본 최대 규모의 결혼 정보 회사 플랫폼으로 성장
-- 월간 활성 사용자 수 지속적 증가
-- 99.9% 시스템 가용성 달성
-  
-
-### MyNavi SingleOne
-<a href="https://mynavi.singleone.jp" target="_blank">
-  <img src="https://img.shields.io/badge/MyNavi-SingleOne-4CAF50?style=for-the-badge" alt="MyNavi SingleOne"/>
-</a>
-
-#### 🛠 사용 기술
-![Next.js 14](https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square&logo=react&logoColor=white)
-
-#### 📌 주요 개발 내용
-- **프론트엔드 아키텍처 설계 및 구현**
-  - Next.js 14 기반의 모던 웹 애플리케이션 구축
-  - TypeScript를 활용한 타입 안정성 확보
-  - Material-UI v6로 일관된 디자인 시스템 구현
-
-- **고도화된 상태 관리 시스템**
-  - Zustand를 활용한 효율적인 상태 관리
-  - 실시간 데이터 처리 로직 구현
-  - API 연동 및 데이터 캐싱 최적화
-
-- **사용자 경험 최적화**
-  - 반응형 디자인으로 모든 디바이스 지원
-  - Google Maps API 및 Leaflet 활용한 지도 기능 구현
-  - date-fns, dayjs를 활용한 날짜 처리 시스템 개발
-
-#### 🔍 프로젝트 특징
-- 체계적인 프로젝트 구조 설계 (컴포넌트, API, 상태 관리 등)
-- Docker 기반 개발/배포 환경 구축
-- 지속적인 업데이트 및 버전 관리 (현재 Ver.1.2.0)
-
 ## 💻 기술 스택
 
 <div align="center">
@@ -138,16 +56,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-</div>
-
-## 📊 GitHub 통계
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MGsFlow&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MGsFlow&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🌟 전문 분야
@@ -181,6 +89,117 @@
 - Jira를 활용한 애자일 프로젝트 관리
 - 팀원들과의 원활한 커뮤니케이션
 - 코드 리뷰 문화 정착에 기여
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="100%" />
+</div>
+
+## 🎯 주요 프로젝트
+
+<details>
+<summary>
+  <h3 style="display: inline">
+    SingleOne Platform
+    <a href="https://www.singleone.jp" target="_blank">
+      <img src="https://img.shields.io/badge/SingleOne-Platform-FF6B6B?style=for-the-badge" alt="SingleOne Platform"/>
+    </a>
+  </h3>
+</summary>
+
+#### 🛠 사용 기술 스택
+![Next.js](https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js&logoColor=white)
+![React 18](https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI%20v5-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+<div align="left">
+
+#### 📌 주요 개발 내용
+- **고도화된 프론트엔드 아키텍처**
+  - Next.js 14 기반 엔터프라이즈급 웹 애플리케이션 구축
+  - TypeScript를 활용한 강력한 타입 시스템 구현
+  - Zustand와 TanStack Query를 활용한 효율적인 상태 관리
+
+- **다양한 데이터 처리 기능**
+  - Material React Table을 활용한 고성능 데이터 그리드 구현
+  - Recharts를 활용한 다양한 데이터 시각화
+  - Excel, PDF 파일 처리 및 변환 기능 (xlsx, react-pdf)
+  - 드래그 앤 드롭 기능 구현 (react-beautiful-dnd, react-dnd)
+
+- **고급 UI/UX 기능**
+  - MUI v5 기반의 모던하고 일관된 디자인 시스템
+  - 고급 캘린더 및 날짜 선택 기능 (@mui/x-date-pickers, react-datepicker)
+  - 이미지 편집 및 크롭 기능 (fabric.js, react-cropper)
+  - 반응형 캐러셀 구현 (react-slick)
+
+#### 🔍 프로젝트 특징
+- Node.js 20 이상 환경에서 최적화된 성능
+- Jest와 React Testing Library를 활용한 테스트 자동화
+- ESLint, Prettier를 통한 코드 품질 관리
+- 지속적인 업데이트 및 버전 관리 (현재 Ver.1.5.5)
+
+#### 🚀 성과
+- 일본 최대 규모의 결혼 정보 회사 플랫폼으로 성장
+- 월간 활성 사용자 수 지속적 증가
+- 99.9% 시스템 가용성 달성
+
+</div>
+</details>
+
+<details>
+<summary>
+  <h3 style="display: inline">
+    MyNavi SingleOne
+    <a href="https://mynavi.singleone.jp" target="_blank">
+      <img src="https://img.shields.io/badge/MyNavi-SingleOne-4CAF50?style=for-the-badge" alt="MyNavi SingleOne"/>
+    </a>
+  </h3>
+</summary>
+
+#### 🛠 사용 기술
+![Next.js 14](https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square&logo=react&logoColor=white)
+
+<div align="left">
+
+#### 📌 주요 개발 내용
+- **프론트엔드 아키텍처 설계 및 구현**
+  - Next.js 14 기반의 모던 웹 애플리케이션 구축
+  - TypeScript를 활용한 타입 안정성 확보
+  - Material-UI v6로 일관된 디자인 시스템 구현
+
+- **고도화된 상태 관리 시스템**
+  - Zustand를 활용한 효율적인 상태 관리
+  - 실시간 데이터 처리 로직 구현
+  - API 연동 및 데이터 캐싱 최적화
+
+- **사용자 경험 최적화**
+  - 반응형 디자인으로 모든 디바이스 지원
+  - Google Maps API 및 Leaflet 활용한 지도 기능 구현
+  - date-fns, dayjs를 활용한 날짜 처리 시스템 개발
+
+#### 🔍 프로젝트 특징
+- 체계적인 프로젝트 구조 설계 (컴포넌트, API, 상태 관리 등)
+- Docker 기반 개발/배포 환경 구축
+- 지속적인 업데이트 및 버전 관리 (현재 Ver.1.2.0)
+
+</div>
+</details>
+
+## 📊 GitHub 통계
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MGsFlow&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MGsFlow&theme=radical" alt="GitHub Streak" />
+</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
