@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=요소의%20창시자%0A프론트엔드%20개발자&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=요소의%20창시자%20프론트엔드%20개발자&fontSize=60" />
 </div>
 
 <div align="center">
