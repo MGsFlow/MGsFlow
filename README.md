@@ -16,7 +16,8 @@
   <p align="center">
     대규모 엔터프라이즈 웹 애플리케이션 개발에 전문성을 가진 프론트엔드 개발자입니다.<br/>
     Next.js, React, TypeScript를 주력으로 사용하며, 최신 웹 기술 트렌드를 지속적으로 학습하고 프로젝트에 적용합니다.<br/>
-    사용자 경험을 최우선으로 생각하며, 성능 최적화와 접근성을 고려한 직관적인 인터페이스 구현에 특별한 관심을 기울입니다.
+    사용자 경험을 최우선으로 생각하며, 동작에 대한 끊임 없는 생각과 경우의 수 및 지속적인 QA를 통하여,<br/>
+    성능 최적화와 접근성을 고려한 직관적인 인터페이스 구현에 특별한 관심을 기울입니다.
   </p>
 </div>
 
@@ -34,6 +35,7 @@
 <div align="center">
   <h4>🎯 개발 철학</h4>
   <p>
+    • 모든 요소에는 가치가 존재한다.<br/>
     • "사용자 중심" 설계로 실제 가치 전달<br/>
     • 확장 가능하고 유지보수가 용이한 코드 작성<br/>
     • 지속적인 학습과 기술 트렌드 연구<br/>
@@ -93,15 +95,10 @@
 
 ## 🎯 주요 프로젝트
 
-<details>
-<summary>
-  <h3 style="display: inline">
-    SingleOne Platform<br/>
-    <a href="https://www.singleone.jp" target="_blank">
-      <img src="https://img.shields.io/badge/SingleOne-Platform-FF6B6B?style=for-the-badge" alt="SingleOne Platform"/>
-    </a>
-  </h3>
-</summary>
+### SingleOne Platform
+<a href="https://www.singleone.jp" target="_blank">
+  <img src="https://img.shields.io/badge/SingleOne-Platform-FF6B6B?style=for-the-badge" alt="SingleOne Platform"/>
+</a>
 
 #### 🛠 사용 기술 스택
 ![Next.js](https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js&logoColor=white)
@@ -110,8 +107,6 @@
 ![MUI](https://img.shields.io/badge/MUI%20v5-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square&logo=react&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
-<div align="left">
 
 #### 📌 주요 개발 내용
 - **고도화된 프론트엔드 아키텍처**
@@ -131,6 +126,11 @@
   - 이미지 편집 및 크롭 기능 (fabric.js, react-cropper)
   - 반응형 캐러셀 구현 (react-slick)
 
+- **보안 및 인증**
+  - JWT 기반 인증 시스템 구현
+  - Iron Session을 활용한 안전한 세션 관리
+  - Crypto-JS를 활용한 데이터 암호화
+
 #### 🔍 프로젝트 특징
 - Node.js 20 이상 환경에서 최적화된 성능
 - Jest와 React Testing Library를 활용한 테스트 자동화
@@ -141,27 +141,18 @@
 - 일본 최대 규모의 결혼 정보 회사 플랫폼으로 성장
 - 월간 활성 사용자 수 지속적 증가
 - 99.9% 시스템 가용성 달성
+  
 
-</div>
-</details>
-
-<details>
-<summary>
-  <h3 style="display: inline">
-    MyNavi SingleOne<br/>
-    <a href="https://mynavi.singleone.jp" target="_blank">
-      <img src="https://img.shields.io/badge/MyNavi-SingleOne-4CAF50?style=for-the-badge" alt="MyNavi SingleOne"/>
-    </a>
-  </h3>
-</summary>
+### MyNavi SingleOne
+<a href="https://mynavi.singleone.jp" target="_blank">
+  <img src="https://img.shields.io/badge/MyNavi-SingleOne-4CAF50?style=for-the-badge" alt="MyNavi SingleOne"/>
+</a>
 
 #### 🛠 사용 기술
 ![Next.js 14](https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-black?style=flat-square&logo=react&logoColor=white)
-
-<div align="left">
 
 #### 📌 주요 개발 내용
 - **프론트엔드 아키텍처 설계 및 구현**
@@ -183,10 +174,7 @@
 - 체계적인 프로젝트 구조 설계 (컴포넌트, API, 상태 관리 등)
 - Docker 기반 개발/배포 환경 구축
 - 지속적인 업데이트 및 버전 관리 (현재 Ver.1.2.0)
-
-</div>
-</details>
-
+  
 ## 📊 GitHub 통계
 
 <div align="center">
