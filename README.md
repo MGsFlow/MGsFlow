@@ -96,7 +96,7 @@
 <details>
 <summary>
   <h3 style="display: inline">
-    SingleOne Platform
+    SingleOne Platform<br/>
     <a href="https://www.singleone.jp" target="_blank">
       <img src="https://img.shields.io/badge/SingleOne-Platform-FF6B6B?style=for-the-badge" alt="SingleOne Platform"/>
     </a>
@@ -148,7 +148,7 @@
 <details>
 <summary>
   <h3 style="display: inline">
-    MyNavi SingleOne
+    MyNavi SingleOne<br/>
     <a href="https://mynavi.singleone.jp" target="_blank">
       <img src="https://img.shields.io/badge/MyNavi-SingleOne-4CAF50?style=for-the-badge" alt="MyNavi SingleOne"/>
     </a>
