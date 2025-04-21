@@ -2,10 +2,43 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=프론트엔드%20개발자&fontSize=70" />
 </div>
 
-<h3 align="center">🚀 4년차 프론트엔드 개발자</h3>
+<div align="center">
+  <h3>🚀 창의적인 로직의 정점. 4년차 프론트엔드 개발자</h3>
+</div>
 
 <div align="center">
-  <p>사용자 경험을 최우선으로 생각하며, 효율적이고 직관적인 웹 애플리케이션을 만드는 개발자입니다.</p>
+  <p>
+    "프로세스 구성을 통해 사용자에게 다양한 가치를 전달하는 개발자"
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+    대규모 엔터프라이즈 웹 애플리케이션 개발에 전문성을 가진 프론트엔드 개발자입니다.<br/>
+    Next.js, React, TypeScript를 주력으로 사용하며, 최신 웹 기술 트렌드를 지속적으로 학습하고 프로젝트에 적용합니다.<br/>
+    사용자 경험을 최우선으로 생각하며, 성능 최적화와 접근성을 고려한 직관적인 인터페이스 구현에 특별한 관심을 기울입니다.
+  </p>
+</div>
+
+<div align="center">
+  <h4>💡 핵심 역량</h4>
+  <p>
+    • 대규모 SPA 설계 및 개발 경험<br/>
+    • 컴포넌트 기반 아키텍처 설계<br/>
+    • 상태 관리 및 캐싱 전략 수립<br/>
+    • 웹 성능 최적화 및 모니터링<br/>
+    • 크로스 브라우저 호환성 관리
+  </p>
+</div>
+
+<div align="center">
+  <h4>🎯 개발 철학</h4>
+  <p>
+    • "사용자 중심" 설계로 실제 가치 전달<br/>
+    • 확장 가능하고 유지보수가 용이한 코드 작성<br/>
+    • 지속적인 학습과 기술 트렌드 연구<br/>
+    • 팀 협업과 지식 공유를 통한 성장
+  </p>
 </div>
 
 ## 🎯 주요 프로젝트
