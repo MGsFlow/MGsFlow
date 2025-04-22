@@ -153,6 +153,9 @@
 
 ## 🎯 주요 프로젝트
 
+#### 실무용 git
+https://github.com/MGflow
+
 ### SingleOne Platform
 <a href="https://www.singleone.jp" target="_blank">
   <img src="https://img.shields.io/badge/SingleOne-Platform-FF6B6B?style=for-the-badge" alt="SingleOne Platform"/>
