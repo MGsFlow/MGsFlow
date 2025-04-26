@@ -235,12 +235,6 @@ https://github.com/MGflow
 - 체계적인 프로젝트 구조 설계 (컴포넌트, API, 상태 관리 등)
 - Docker 기반 개발/배포 환경 구축
 - 지속적인 업데이트 및 버전 관리 (현재 Ver.1.2.0)
-  
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MGsFlow&theme=radical" alt="GitHub Streak" />
-</div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
