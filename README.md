@@ -236,11 +236,6 @@ https://github.com/MGflow
 - Docker 기반 개발/배포 환경 구축
 - 지속적인 업데이트 및 버전 관리 (현재 Ver.1.2.0)
   
-## 📊 GitHub 통계
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MGsFlow&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MGsFlow&theme=radical" alt="GitHub Streak" />
